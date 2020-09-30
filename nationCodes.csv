@@ -1,0 +1,157 @@
+Number,Country or region,Code
+0,Afghanistan,AFG
+1,Albania,ALB
+2,Algeria,DZA
+3,Argentina,ARG
+4,Armenia,ARM
+5,Australia,AUS
+6,Austria,AUT
+7,Azerbaijan,AZE
+8,Bahrain,BHR
+9,Bangladesh,BGD
+10,Belarus,BLR
+11,Belgium,BEL
+12,Benin,BEN
+13,Bhutan,BTN
+14,Bolivia,BOL
+15,Bosnia and Herzegovina,BIH
+16,Botswana,BWA
+17,Brazil,BRA
+18,Bulgaria,BGR
+19,Burkina Faso,BFA
+20,Burundi,BDI
+21,Cambodia,KHM
+22,Cameroon,CMR
+23,Canada,CAN
+24,Central African Republic,CAF
+25,Chad,TCD
+26,Chile,CHL
+27,China,CHN
+28,Colombia,COL
+29,Comoros,COM
+30,Congo (Brazzaville),COG
+31,Congo (Kinshasa),COD
+32,Costa Rica,CRI
+33,Croatia,HRV
+34,Cyprus,CYP
+35,Czech Republic,CZE
+36,Denmark,DNK
+37,Dominican Republic,DOM
+38,Ecuador,ECU
+39,Egypt,EGY
+40,El Salvador,SLV
+41,Estonia,EST
+42,Ethiopia,ETH
+43,Finland,FIN
+44,France,FRA
+45,Gabon,GAB
+46,Gambia,GMB
+47,Georgia,GEO
+48,Germany,DEU
+49,Ghana,GHA
+50,Greece,GRC
+51,Guatemala,GTM
+52,Guinea,GIN
+53,Haiti,HTI
+54,Honduras,HND
+55,Hong Kong,HKG
+56,Hungary,HUN
+57,Iceland,ISL
+58,India,IND
+59,Indonesia,IDN
+60,Iran,IRN
+61,Iraq,IRQ
+62,Ireland,IRL
+63,Israel,ISR
+64,Italy,ITA
+65,Ivory Coast,CIV
+66,Jamaica,JAM
+67,Japan,JPN
+68,Jordan,JOR
+69,Kazakhstan,KAZ
+70,Kenya,KEN
+71,Kosovo,XKX
+72,Kuwait,KWT
+73,Kyrgyzstan,KGZ
+74,Laos,LAO
+75,Latvia,LVA
+76,Lebanon,LBN
+77,Lesotho,LSO
+78,Liberia,LBR
+79,Libya,LBY
+80,Lithuania,LTU
+81,Luxembourg,LUX
+82,Madagascar,MDG
+83,Malawi,MWI
+84,Malaysia,MYS
+85,Mali,MLI
+86,Malta,MLT
+87,Mauritania,MRT
+88,Mauritius,MUS
+89,Mexico,MEX
+90,Moldova,MDA
+91,Mongolia,MNG
+92,Montenegro,MNE
+93,Morocco,MAR
+94,Mozambique,MOZ
+95,Myanmar,MMR
+96,Namibia,NAM
+97,Nepal,NPL
+98,Netherlands,NLD
+99,New Zealand,NZL
+100,Nicaragua,NIC
+101,Niger,NER
+102,Nigeria,NGA
+103,North Macedonia,MKD
+104,Northern Cyprus,CYP
+105,Norway,NOR
+106,Pakistan,PAK
+107,Palestinian Territories,PSE
+108,Panama,PAN
+109,Paraguay,PRY
+110,Peru,PER
+111,Philippines,PHL
+112,Poland,POL
+113,Portugal,PRT
+114,Qatar,QAT
+115,Romania,ROU
+116,Russia,RUS
+117,Rwanda,RWA
+118,Saudi Arabia,SAU
+119,Senegal,SEN
+120,Serbia,SRB
+121,Sierra Leone,SLE
+122,Singapore,SGP
+123,Slovakia,SVK
+124,Slovenia,SVN
+125,Somalia,SOM
+126,South Africa,ZAF
+127,South Korea,KOR
+128,South Sudan,SDN
+129,Spain,ESP
+130,Sri Lanka,LKA
+131,Swaziland,SWZ
+132,Sweden,SWE
+133,Switzerland,CHE
+134,Syria,SYR
+135,Taiwan,TWN
+136,Tajikistan,TJK
+137,Tanzania,TZA
+138,Thailand,THA
+139,Togo,TGO
+140,Trinidad and Tobago,TTO
+141,Tunisia,TUN
+142,Turkey,TUR
+143,Turkmenistan,TKM
+144,Uganda,UGA
+145,Ukraine,UKR
+146,United Arab Emirates,ARE
+147,United Kingdom,GBR
+148,United States,USA
+149,Uruguay,URY
+150,Uzbekistan,UZB
+151,Venezuela,VEN
+152,Vietnam,VNM
+153,Yemen,YEM
+154,Zambia,ZMB
+155,Zimbabwe,ZWE
