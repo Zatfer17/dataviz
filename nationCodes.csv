@@ -1,4 +1,4 @@
-Number,Country or region,Code
+,Country or region,Code
 0,Afghanistan,AFG
 1,Albania,ALB
 2,Algeria,DZA
@@ -103,54 +103,54 @@ Number,Country or region,Code
 101,Niger,NER
 102,Nigeria,NGA
 103,North Macedonia,MKD
-105,Norway,NOR
-106,Pakistan,PAK
-107,Palestinian Territories,PSE
-108,Panama,PAN
-109,Paraguay,PRY
-110,Peru,PER
-111,Philippines,PHL
-112,Poland,POL
-113,Portugal,PRT
-114,Qatar,QAT
-115,Romania,ROU
-116,Russia,RUS
-117,Rwanda,RWA
-118,Saudi Arabia,SAU
-119,Senegal,SEN
-120,Serbia,SRB
-121,Sierra Leone,SLE
-122,Singapore,SGP
-123,Slovakia,SVK
-124,Slovenia,SVN
-125,Somalia,SOM
-126,South Africa,ZAF
-127,South Korea,KOR
-128,South Sudan,SDN
-129,Spain,ESP
-130,Sri Lanka,LKA
-131,Swaziland,SWZ
-132,Sweden,SWE
-133,Switzerland,CHE
-134,Syria,SYR
-135,Taiwan,TWN
-136,Tajikistan,TJK
-137,Tanzania,TZA
-138,Thailand,THA
-139,Togo,TGO
-140,Trinidad and Tobago,TTO
-141,Tunisia,TUN
-142,Turkey,TUR
-143,Turkmenistan,TKM
-144,Uganda,UGA
-145,Ukraine,UKR
-146,United Arab Emirates,ARE
-147,United Kingdom,GBR
-148,United States,USA
-149,Uruguay,URY
-150,Uzbekistan,UZB
-151,Venezuela,VEN
-152,Vietnam,VNM
-153,Yemen,YEM
-154,Zambia,ZMB
-155,Zimbabwe,ZWE
+104,Norway,NOR
+105,Pakistan,PAK
+106,Palestinian Territories,PSE
+107,Panama,PAN
+108,Paraguay,PRY
+109,Peru,PER
+110,Philippines,PHL
+111,Poland,POL
+112,Portugal,PRT
+113,Qatar,QAT
+114,Romania,ROU
+115,Russia,RUS
+116,Rwanda,RWA
+117,Saudi Arabia,SAU
+118,Senegal,SEN
+119,Serbia,SRB
+120,Sierra Leone,SLE
+121,Singapore,SGP
+122,Slovakia,SVK
+123,Slovenia,SVN
+124,Somalia,SOM
+125,South Africa,ZAF
+126,South Korea,KOR
+127,South Sudan,SDN
+128,Spain,ESP
+129,Sri Lanka,LKA
+130,Swaziland,SWZ
+131,Sweden,SWE
+132,Switzerland,CHE
+133,Syria,SYR
+134,Taiwan,TWN
+135,Tajikistan,TJK
+136,Tanzania,TZA
+137,Thailand,THA
+138,Togo,TGO
+139,Trinidad and Tobago,TTO
+140,Tunisia,TUN
+141,Turkey,TUR
+142,Turkmenistan,TKM
+143,Uganda,UGA
+144,Ukraine,UKR
+145,United Arab Emirates,ARE
+146,United Kingdom,GBR
+147,United States,USA
+148,Uruguay,URY
+149,Uzbekistan,UZB
+150,Venezuela,VEN
+151,Vietnam,VNM
+152,Yemen,YEM
+153,Zambia,ZMB
+154,Zimbabwe,ZWE
