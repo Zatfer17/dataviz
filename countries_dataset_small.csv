@@ -1,0 +1,156 @@
+,Score 2019,Life expect. 2019,Sex-ratio 2019,Urbanization rate 2019,Country,Continent,Currency,Languages,Flag
+Africa,4.382354166666668,62.90833333333334,0.9843749999999999,43.224999999999994,Africa,Africa,,,Continent
+Asia,5.175473684210528,73.82368421052634,1.0550000000000002,58.50263157894739,Asia,Asia,,,Continent
+Europe,6.281815789473685,79.12894736842105,0.9536842105263157,72.43684210526318,Europe,Europe,,,Continent
+North America,6.154692307692307,75.12307692307692,0.98,68.14615384615385,North America,North America,,,Continent
+Oceania,7.2675,82.69999999999999,0.995,86.45,Oceania,Oceania,,,Continent
+South America,5.9202,75.78,0.976,80.69,South America,South America,,,Continent
+0,6.825,77.8,2.56,87.0,United Arab Emirates,Asia,AED,ar,Others
+1,3.2030000000000003,64.5,1.03,26.0,Afghanistan,Asia,AFN,"ps,uz,tk",Outliers
+2,4.559,74.9,0.95,63.3,Armenia,Asia,AMD,"hy,ru",Others
+3,6.086,76.5,0.98,92.1,Argentina,South America,ARS,"es,gn",Others
+4,7.246,81.4,0.96,58.7,Austria,Europe,EUR,de,Others
+5,7.228,83.3,0.99,86.2,Australia,Oceania,AUD,en,Others
+6,5.207999999999999,72.9,0.98,56.4,Azerbaijan,Asia,AZN,az,Others
+7,5.386,77.3,0.95,49.0,Bosnia and Herzegovina,Europe,BAM,"bs,hr,sr",Others
+8,4.456,72.3,0.97,38.2,Bangladesh,Asia,BDT,bn,Others
+9,6.922999999999999,81.5,0.97,98.1,Belgium,Europe,EUR,"nl,fr,de",Others
+10,4.587,61.2,0.96,30.6,Burkina Faso,Africa,XOF,"fr,ff",Others
+11,5.011,74.9,0.95,75.7,Bulgaria,Europe,BGN,bg,Others
+12,6.199,77.2,1.53,89.5,Bahrain,Asia,BHD,ar,Others
+13,3.775,61.2,0.99,13.7,Burundi,Africa,BIF,"fr,rn",Others
+14,4.883,61.5,0.97,48.4,Benin,Africa,XOF,fr,Others
+15,5.779,71.2,0.98,70.1,Bolivia,South America,"BOB,BOV","es,ay,qu",Others
+16,6.3,75.7,0.97,87.1,Brazil,South America,BRL,pt,Others
+17,5.082,71.5,1.08,42.3,Bhutan,Asia,"BTN,INR",dz,Others
+18,3.488,69.3,0.93,70.9,Botswana,Africa,BWP,"en,tn",Others
+19,5.3229999999999995,74.6,0.87,79.5,Belarus,Europe,BYN,"be,ru",Others
+20,7.278,82.3,0.98,81.6,Canada,North America,CAD,"en,fr",Others
+21,3.083,52.8,0.99,42.2,Central African Republic,Africa,XAF,"fr,sg",Others
+22,4.944,57.4,1.01,51.7,Ivory Coast,Africa,XOF,fr,Others
+23,6.444,80.0,0.97,87.7,Chile,South America,"CLF,CLP",es,Others
+24,5.044,58.9,0.99,57.6,Cameroon,Africa,XAF,"en,fr",Others
+25,5.191,76.7,1.06,61.4,China,Asia,CNY,zh,Others
+26,6.125,77.1,0.98,81.4,Colombia,South America,COP,es,Others
+27,7.167000000000001,80.1,1.0,80.8,Costa Rica,North America,CRC,es,Others
+28,6.046,80.8,1.05,66.8,Cyprus,Europe,EUR,"el,tr,hy",Others
+29,6.852,79.2,0.97,74.1,Czech Republic,Europe,CZK,"cs,sk",Others
+30,6.985,81.2,0.96,77.5,Germany,Europe,EUR,de,Others
+31,7.6,80.8,0.99,88.1,Denmark,Europe,DKK,da,Others
+32,5.425,73.9,1.02,82.5,Dominican Republic,North America,DOP,es,Others
+33,5.211,76.7,1.03,73.7,Algeria,Africa,DZD,ar,Inliers
+34,6.028,76.8,0.99,64.2,Ecuador,South America,USD,es,Others
+35,5.893,78.6,0.88,69.2,Estonia,Europe,EUR,et,Others
+36,4.166,71.8,1.05,42.8,Egypt,Africa,EGP,ar,Outliers
+37,6.354,83.4,0.98,80.8,Spain,Europe,EUR,"es,eu,ca,gl,oc",Others
+38,4.2860000000000005,66.2,1.0,21.7,Ethiopia,Africa,ETB,am,Others
+39,7.769,81.7,0.97,85.5,Finland,Europe,EUR,"fi,sv",Others
+40,6.5920000000000005,82.5,0.96,81.0,France,Europe,EUR,fr,Others
+41,4.7989999999999995,66.2,1.08,90.1,Gabon,Africa,XAF,fr,Others
+42,7.053999999999999,81.2,0.99,83.9,United Kingdom,Europe,GBP,en,Others
+43,4.519,73.6,0.92,59.5,Georgia,Asia,GEL,ka,Others
+44,4.996,63.8,0.97,57.3,Ghana,Africa,GHS,en,Others
+45,4.534,61.2,1.0,44.2,Guinea,Africa,GNF,"fr,ff",Others
+46,4.534,61.2,1.0,36.5,Guinea,Africa,GNF,"fr,ff",Others
+47,4.534,61.2,0.95,44.2,Guinea,Africa,GNF,"fr,ff",Others
+48,4.534,61.2,0.95,36.5,Guinea,Africa,GNF,"fr,ff",Others
+49,4.534,58.0,1.0,44.2,Guinea,Africa,GNF,"fr,ff",Others
+50,4.534,58.0,1.0,36.5,Guinea,Africa,GNF,"fr,ff",Others
+51,4.534,58.0,0.95,44.2,Guinea,Africa,GNF,"fr,ff",Others
+52,4.534,58.0,0.95,36.5,Guinea,Africa,GNF,"fr,ff",Others
+53,5.287000000000001,82.1,0.95,79.7,Greece,Europe,EUR,el,Inliers
+54,6.436,74.1,0.99,51.8,Guatemala,North America,GTQ,es,Others
+55,5.43,84.7,0.86,100.0,Hong Kong,Asia,HKD,"zh,en",Others
+56,5.86,75.1,0.95,58.4,Honduras,North America,HNL,es,Others
+57,5.432,78.3,0.93,57.6,Croatia,Europe,HRK,hr,Others
+58,3.597,63.7,0.98,57.1,Haiti,North America,"HTG,USD","fr,ht",Outliers
+59,5.757999999999999,76.7,0.91,71.9,Hungary,Europe,HUF,hu,Others
+60,5.192,71.5,1.0,56.6,Indonesia,Asia,IDR,id,Others
+61,7.021,82.1,1.0,63.7,Ireland,Europe,EUR,"ga,en",Others
+62,7.138999999999999,82.8,1.01,92.6,Israel,Asia,ILS,"he,ar",Outliers
+63,4.015,69.4,1.08,34.9,India,Asia,INR,"hi,en",Others
+64,4.437,70.5,1.01,70.9,Iraq,Asia,IQD,"ar,ku",Others
+65,4.548,76.5,1.03,75.9,Iran,Asia,IRR,fa,Others
+66,7.494,82.9,1.0,93.9,Iceland,Europe,ISK,is,Others
+67,6.223,83.6,0.93,71.0,Italy,Europe,EUR,it,Others
+68,5.89,74.4,0.98,56.3,Jamaica,North America,JMD,en,Others
+69,4.906000000000001,74.4,1.11,91.4,Jordan,Asia,JOD,ar,Others
+70,5.886,84.5,0.94,91.8,Japan,Asia,JPY,ja,Others
+71,4.5089999999999995,63.3,1.0,28.0,Kenya,Africa,KES,"en,sw",Others
+72,5.261,71.3,0.96,36.9,Kyrgyzstan,Asia,KGS,"ky,ru",Others
+73,4.7,69.6,0.95,24.2,Cambodia,Asia,KHR,km,Others
+74,3.9730000000000003,64.1,0.94,29.4,Comoros,Africa,KMF,"ar,fr",Others
+75,5.809,73.2,0.91,57.7,Kazakhstan,Asia,KZT,"kk,ru",Others
+76,4.796,67.6,0.99,36.3,Laos,Asia,LAK,lo,Others
+77,5.197,78.9,1.0,88.9,Lebanon,Asia,LBP,"ar,fr",Others
+78,4.3660000000000005,76.8,0.95,18.7,Sri Lanka,Asia,LKR,"si,ta",Others
+79,3.975,63.7,1.0,52.1,Liberia,Africa,LRD,en,Others
+80,3.802,53.7,0.98,29.0,Lesotho,Africa,"LSL,ZAR","en,st",Others
+81,6.149,75.7,0.86,68.0,Lithuania,Europe,EUR,lt,Inliers
+82,7.09,82.1,1.02,91.5,Luxembourg,Europe,EUR,"fr,de,lb",Others
+83,5.94,75.2,0.86,68.3,Latvia,Europe,EUR,lv,Others
+84,5.525,72.7,1.05,80.7,Libya,Africa,LYD,ar,Others
+85,5.207999999999999,76.5,1.0,63.5,Morocco,Africa,MAD,ar,Others
+86,5.529,71.8,0.96,42.8,Moldova,Europe,MDL,ro,Others
+87,5.523,76.8,0.97,67.5,Montenegro,Europe,EUR,"sr,bs,sq,hr",Others
+88,3.9330000000000003,66.7,1.0,38.5,Madagascar,Africa,MGA,"fr,mg",Others
+89,5.274,75.7,0.99,58.5,North Macedonia,Europe,MKD,mk,Others
+90,4.39,58.9,0.95,43.9,Mali,Africa,XOF,fr,Others
+91,5.285,69.7,0.95,68.7,Mongolia,Asia,MNT,mn,Others
+92,4.49,64.7,0.93,55.3,Mauritania,Africa,MRU,ar,Others
+93,6.726,82.4,1.01,94.7,Malta,Europe,EUR,"mt,en",Others
+94,5.888,74.9,0.96,40.8,Mauritius,Africa,MUR,en,Others
+95,3.41,63.8,0.98,17.4,Malawi,Africa,MWK,"en,ny",Others
+96,6.595,75.0,0.96,80.7,Mexico,North America,MXN,es,Others
+97,5.3389999999999995,76.1,1.03,77.2,Malaysia,Asia,MYR,ms,Others
+98,4.466,60.2,0.97,37.1,Mozambique,Africa,MZN,pt,Others
+99,4.638999999999999,63.4,0.96,52.0,Namibia,Africa,"NAD,ZAR","en,af",Others
+100,4.628,62.0,0.98,16.6,Niger,Africa,XOF,fr,Others
+101,5.265,54.3,1.02,52.0,Nigeria,Africa,NGN,en,Others
+102,6.105,74.3,0.95,59.0,Nicaragua,North America,NIO,es,Others
+103,7.4879999999999995,82.1,0.98,92.2,Netherlands,Europe,EUR,nl,Others
+104,7.553999999999999,82.5,1.02,83.0,Norway,Europe,NOK,"no,nb,nn",Others
+105,4.913,70.5,0.96,20.6,Nepal,Asia,NPR,ne,Others
+106,7.307,82.1,1.0,86.7,New Zealand,Oceania,NZD,"en,mi",Inliers
+107,6.321000000000001,78.3,1.01,68.4,Panama,North America,"PAB,USD",es,Others
+108,5.697,76.5,0.96,78.3,Peru,South America,PEN,es,Others
+109,5.631,71.1,1.01,47.4,Philippines,Asia,PHP,en,Others
+110,5.653,67.1,1.04,37.2,Pakistan,Asia,PKR,"en,ur",Others
+111,6.182,78.5,0.94,60.0,Poland,Europe,PLN,pl,Others
+112,5.693,81.9,0.9,66.3,Portugal,Europe,EUR,pt,Others
+113,5.742999999999999,74.1,1.0,62.2,Paraguay,South America,PYG,"es,gn",Others
+114,6.07,75.9,0.95,56.4,Romania,Europe,RON,ro,Others
+115,5.603,75.8,0.95,56.4,Serbia,Europe,RSD,sr,Others
+116,5.648,72.4,0.86,74.8,Russia,Europe,RUB,ru,Others
+117,3.3339999999999996,68.7,0.96,17.4,Rwanda,Africa,RWF,"rw,en,fr",Others
+118,6.375,75.0,1.3,84.3,Saudi Arabia,Asia,SAR,ar,Others
+119,7.343,82.7,1.0,88.0,Sweden,Europe,SEK,sv,Others
+120,6.2620000000000005,83.8,0.96,100.0,Singapore,Asia,SGD,"en,ms,ta,zh",Others
+121,6.117999999999999,81.2,1.0,55.1,Slovenia,Europe,EUR,sl,Others
+122,6.1979999999999995,77.4,0.94,53.8,Slovakia,Europe,EUR,sk,Others
+123,4.374,54.3,0.95,42.9,Sierra Leone,Africa,SLL,en,Others
+124,4.681,67.7,0.94,48.1,Senegal,Africa,XOF,fr,Others
+125,4.668,56.7,1.02,46.1,Somalia,Africa,SOS,"so,ar",Others
+126,2.853,57.6,1.06,20.2,South Sudan,Africa,SSP,en,Others
+127,6.252999999999999,73.1,0.92,73.4,El Salvador,North America,"SVC,USD",es,Others
+128,3.4619999999999997,71.8,1.0,55.5,Syria,Asia,SYP,ar,Outliers
+129,4.35,54.0,0.98,23.5,Chad,Africa,XAF,"fr,ar",Others
+130,4.085,60.8,0.98,42.8,Togo,Africa,XOF,fr,Others
+131,6.007999999999999,76.9,0.96,51.4,Thailand,Asia,THB,th,Others
+132,5.4670000000000005,70.9,0.99,27.5,Tajikistan,Asia,TJS,"tg,ru",Others
+133,5.247000000000001,68.1,0.98,52.5,Turkmenistan,Asia,TMT,"tk,ru",Others
+134,4.461,76.5,0.99,69.6,Tunisia,Africa,TND,ar,Outliers
+135,5.372999999999999,78.3,1.01,76.1,Turkey,Asia,TRY,tr,Others
+136,6.192,73.4,1.03,53.2,Trinidad and Tobago,North America,TTD,en,Others
+137,3.2310000000000003,65.0,1.0,35.2,Tanzania,Africa,TZS,"sw,en",Others
+138,4.332,72.0,0.86,69.6,Ukraine,Europe,UAH,uk,Outliers
+139,4.189,63.0,0.94,25.0,Uganda,Africa,UGX,"en,sw",Others
+140,6.892,78.9,0.97,82.7,United States,North America,"USD,USN,USS",en,Others
+141,6.292999999999999,77.8,0.94,95.5,Uruguay,South America,"UYI,UYU",es,Others
+142,6.1739999999999995,71.5,0.99,50.4,Uzbekistan,Asia,UZS,"uz,ru",Others
+143,4.707,72.1,0.99,88.3,Venezuela,South America,VES,es,Outliers
+144,5.175,75.3,1.01,37.3,Vietnam,Asia,VND,vi,Others
+145,3.38,66.1,1.02,36.6,Yemen,Asia,YER,ar,Outliers
+146,4.7219999999999995,63.9,0.98,67.4,South Africa,Africa,ZAR,"af,en,nr,st,ss,tn,ts,ve,xh,zu",Others
+147,4.107,63.5,1.0,44.6,Zambia,Africa,ZMW,en,Others
+148,3.6630000000000003,61.2,0.96,32.2,Zimbabwe,Africa,"USD,ZAR,BWP,GBP,AUD,CNY,INR,JPY","en,sn,nd",Others
